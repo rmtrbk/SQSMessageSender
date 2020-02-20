@@ -1,0 +1,17 @@
+2020-02-19 10:17:15,168 [main] INFO  uploader.sqsmessagesender.service.SQSMessengerServiceImpl  - SQSMessengerServiceImpl: Notification sent to SQS
+2020-02-19 10:21:39,182 [main] INFO  uploader.sqsmessagesender.service.SQSMessengerServiceImpl  - SQSMessengerServiceImpl: Notification sent to SQS
+2020-02-19 10:25:25,442 [main] INFO  uploader.sqsmessagesender.service.SQSMessengerServiceImpl  - SQSMessengerServiceImpl: Notification sent to SQS
+2020-02-19 10:27:48,842 [main] INFO  uploader.sqsmessagesender.service.SQSMessengerServiceImpl  - SQSMessengerServiceImpl: Notification sent to SQS
+2020-02-19 11:11:16,370 [main] INFO  uploader.sqsmessagesender.service.SQSMessengerServiceImpl  - SQSMessengerServiceImpl: Notification sent to SQS
+2020-02-19 11:15:30,227 [main] INFO  uploader.sqsmessagesender.service.SQSMessengerServiceImpl  - SQSMessengerServiceImpl: Notification sent to SQS
+2020-02-19 11:19:48,924 [main] INFO  uploader.sqsmessagesender.service.SQSMessengerServiceImpl  - SQSMessengerServiceImpl: Notification sent to SQS
+2020-02-19 11:21:33,309 [main] INFO  uploader.sqsmessagesender.service.SQSMessengerServiceImpl  - SQSMessengerServiceImpl: Notification sent to SQS
+2020-02-19 11:24:40,560 [main] INFO  uploader.sqsmessagesender.service.SQSMessengerServiceImpl  - SQSMessengerServiceImpl: Notification sent to SQS
+2020-02-19 11:45:29,456 [main] INFO  uploader.sqsmessagesender.service.SQSMessengerServiceImpl  - SQSMessengerServiceImpl: Notification sent to SQS
+2020-02-19 11:50:42,868 [main] INFO  uploader.sqsmessagesender.service.SQSMessengerServiceImpl  - SQSMessengerServiceImpl: Notification sent to SQS
+2020-02-19 11:52:55,150 [main] INFO  uploader.sqsmessagesender.service.SQSMessengerServiceImpl  - SQSMessengerServiceImpl: Notification sent to SQS
+2020-02-19 11:55:12,817 [main] INFO  uploader.sqsmessagesender.service.SQSMessengerServiceImpl  - SQSMessengerServiceImpl: Notification sent to SQS
+2020-02-21 07:27:36,571 [main] INFO  uploader.sqsmessagesender.service.SQSMessengerServiceImpl  - SQSMessengerServiceImpl: Notification sent to SQS
+2020-02-21 07:36:52,497 [main] INFO  uploader.sqsmessagesender.service.SQSMessengerServiceImpl  - SQSMessengerServiceImpl: Notification sent to SQS
+2020-02-21 07:54:17,653 [main] INFO  uploader.sqsmessagesender.service.SQSMessengerServiceImpl  - SQSMessengerServiceImpl: Notification sent to SQS
+2020-02-21 08:33:57,169 [main] INFO  uploader.sqsmessagesender.service.SQSMessengerServiceImpl  - SQSMessengerServiceImpl: Notification sent to SQS
